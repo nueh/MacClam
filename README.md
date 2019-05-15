@@ -1,5 +1,7 @@
 # MacClam
 
+## Archived! Go to https://github.com/killdash9/MacClam 
+
 The Non-Graphical ClamAV Antivirus Solution for Mac OS X
 
 I wrote this as a free alternative to the excellent <a
